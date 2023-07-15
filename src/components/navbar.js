@@ -39,9 +39,9 @@ class NavbarHead extends React.Component {
                 <p><span id='pspan'>4444</span> unique algorithmically generated 3d pandas</p>
                 <button>
                     <ul>
-                        <li><a href="">join</a></li>
-                        <li><a href=""><img src={logo1} alt="image3" /></a></li>
-                        <li><a href="">discord</a></li>
+                        <li><a href="/">join</a></li>
+                        <li><a href="/"><img src={logo1} alt="image3" /></a></li>
+                        <li><a href="/">discord</a></li>
                     </ul>
 
 

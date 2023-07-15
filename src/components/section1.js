@@ -14,13 +14,13 @@ class Section1 extends React.Component {
                 <h3>50 hand drawn 3d pandas</h3>
                 <div id="pandas-container">
                     <div className="panda">
-                        <img src={spider_panda} alt="" />
+                        <img src={spider_panda} alt="SpiderPanda" />
                     </div>
                     <div className="panda">
-                        <img src={forest_panda} alt="" />
+                        <img src={forest_panda} alt="ForestPanda" />
                     </div>
                     <div className="panda">
-                        <img src={austronut_panda} alt="" />
+                        <img src={austronut_panda} alt="AustronutPanda" />
                     </div>
                 </div>
                 <button>SHOW MORE</button>

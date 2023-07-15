@@ -11,19 +11,19 @@ class Section2 extends React.Component {
                 <h3>50 hand drawn 3d pandas</h3>
                 <div id="robot-pandas-container">
                     <div className="robot-panda">
-                        <img src={robot_panda} alt="" />
+                        <img src={robot_panda} alt="robott" />
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                         </p>
                     </div>
                     <div className="robot-panda">
-                        <img src={robot_panda} alt="" />
+                        <img src={robot_panda} alt="robot" />
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                         </p>
                     </div>
                     <div className="robot-panda">
-                        <img src={robot_panda} alt="" />
+                        <img src={robot_panda} alt="robotPanda" />
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                         </p>

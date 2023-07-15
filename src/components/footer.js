@@ -30,7 +30,7 @@ class Footer extends React.Component {
                         <img src={vector6} alt="" />
                     </div>
                 </div>
-                <img src={treeRight} alt="" />
+                <img src={treeRight} alt="footerImg" />
             </div>
 
         );

@@ -1,0 +1,38 @@
+
+#section-1 {
+    background: #1A201A;
+    text-align: center;
+    padding-bottom: 4em;
+}
+#section-1 > h3 {
+    font-family: 'Happy Monkey';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 0%;
+    padding: 2em 0em;
+}
+#pandas-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#pandas-container > div {
+    padding: 1em 1em;
+}
+#section-1 > button {
+    background: #1A201A;
+    border: 1px solid #FFFFFF;
+    padding: .5em 1.2em;
+    margin-top: 1em;
+    font-family: 'Shojumaru';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}

@@ -1,0 +1,60 @@
+#section-3 {
+    background: url('../assets/soldier panda.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    text-align: center;
+    padding: 6em 0em 4em 0em;
+    height: 400px;
+}
+#section-3 > h1 {
+    font-family: 'Shojumaru';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 66px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+#section-3 > p {
+    font-family: 'Happy Monkey';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+#section-3 > button {
+    background: transparent;
+    border: 1px solid #FFFFFF;
+    padding: 1em 2em;
+    margin-top: 3em;
+    cursor: pointer;
+}
+#section-3 > button > ul {
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
+    padding: 0%;
+}
+#section-3 > button > ul > li {
+    list-style: none;
+}
+#section-3 > button > ul > li > a {
+    font-family: 'Shojumaru';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+text-transform: uppercase;
+color: #FFFFFF;
+text-decoration: none;   
+}
+#section-3 > button > ul > li > a:not(:nth-child(2)) {
+    margin: 0em .3em;
+}

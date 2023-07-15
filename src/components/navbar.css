@@ -1,0 +1,146 @@
+header {
+    background: linear-gradient(267.3deg, rgba(15, 15, 15, 0.86) 8.95%, #1F201F 66.31%);
+    padding-bottom: 3em;
+    position: relative;
+}
+ 
+#root > div > header > img {
+    position: absolute;
+    bottom: 15%;
+    height: 25em;
+    width: 16em;
+}
+#root > div > header > img:nth-child(5) {
+    position: absolute;
+    bottom: 15%;
+    height: 25em;
+    width: 16em;
+    right: 0%;
+}
+#root > div > header > nav > ul {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2em 8em;
+
+    margin: 0%;
+    margin-left: 0%;
+}
+#root > div > header > nav > ul > li {
+    list-style: none;
+}
+#root > div > header > nav > ul > li > a {
+    font-family: 'Happy Monkey';
+    color: #26A458;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+/* code for the navbarHead */
+ 
+#root > div > header > div {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    padding-top: 2em;
+}
+#root > div > header > div > h1 {
+    font-family: 'Shojumaru', cursive; 
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 66px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+#root > div > header > div > p {
+    font-family: 'Happy Monkey';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+#pspan {
+    color: #26A458;
+}
+#root > div > header > div > button {
+    margin-top: 1.5em;
+    padding: .4em 2.5em;
+    border: 1px solid #26A458;
+    background: linear-gradient(267.3deg, rgba(15, 15, 15, 0.86) 8.95%, #1F201F 66.31%);
+}
+#root > div > header > div > button > ul {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0%;
+    
+}
+#root > div > header > div > button > ul > li {
+    list-style: none;
+}
+#root > div > header > div > button > ul > li > a {
+    text-decoration: none;
+    margin: 0em .3em;
+    font-family: 'Shojumaru';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    color: #26A458;
+}
+
+
+
+/* code for the navbar bottom */
+
+#root > div > header > div.header-bottom {
+    display: flex;
+    margin-top: 2em;
+
+}
+#head-bottom-p {
+    font-family: 'Happy Monkey';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 36px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+ }
+ #time {
+  display: flex ;  
+  justify-content: space-between;
+
+ }
+ #time > div {
+    padding: 0% 3em;
+ }
+ #time > div > h2 {
+    margin: 0em 0em;
+    font-family: 'Happy Monkey';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+ }
+ #time > div > p {
+    margin: 0em 0em;
+    font-family: 'Happy Monkey';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+ }
+ 

@@ -1,0 +1,53 @@
+#section-2 {
+    background: linear-gradient(267.3deg, rgba(15, 15, 15, 0.86) 8.95%, #1F201F 66.31%);
+    padding: 2em 2em 3em 2em;
+    text-align: center;
+}
+#section-2 > h3 {
+    text-align: center;
+    font-family: 'Happy Monkey';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 0%;
+    padding-bottom: 1.5em;
+}
+#robot-pandas-container {
+    display: flex;
+    justify-content: center;
+  
+}
+#robot-pandas-container > div {
+    padding: 2em;
+    background: #1A201A;
+    margin: 0em 1em;
+}
+#robot-pandas-container > div > p {
+    max-width: fit-content;
+    font-family: 'Happy Monkey';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-align: start;
+}
+ 
+#section-2 > button {
+    
+    font-family: 'Shojumaru';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: linear-gradient(267.3deg, rgba(15, 15, 15, 0.86) 8.95%, #1F201F 66.31%);
+    border: 1px solid #FFFFFF;
+    padding: 1.5em 3em;
+    margin-top: 2em;
+}

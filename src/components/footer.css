@@ -1,0 +1,62 @@
+#footer {
+    background: #0F0F0F;
+    height: 300px;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     padding: 3em 0em;
+     position: relative;
+}
+#footer-links {
+    width: 100%;
+}
+#footer-links > ul {
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   margin: 0%;
+   padding: 2em 8em;
+}
+#footer-links > ul > li > a {
+    font-family: 'Happy Monkey';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+#social-links {
+    margin: 2em 0em 0em 2em;
+}
+#social-links > p {
+    font-family: 'Happy Monkey';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    
+}
+#icons {
+    display: flex;
+    justify-content: space-around;
+}
+#icons > img:nth-child(2) {
+    color: #FFFFFF;
+    font-size: 5em;
+
+}
+#footer-links > img {
+    position: absolute;
+    bottom: 0%;
+}
+#footer > img {
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+}
+ 

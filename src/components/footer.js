@@ -15,11 +15,11 @@ class Footer extends React.Component {
                 <div id="footer-links">
                     <img src={treeLeft} alt="" />
                     <ul>
-                        <li><a href="">GALLERY</a></li>
-                        <li><a href="">TEAM</a></li>
-                        <li><a href=""><img src={logo3} alt="" /> </a></li>
-                        <li><a href="">ROADMAP</a></li>
-                        <li><a href="">FAQ</a></li>
+                        <li><a href="/">GALLERY</a></li>
+                        <li><a href="/">TEAM</a></li>
+                        <li><a href="/"><img src={logo3} alt="" /> </a></li>
+                        <li><a href="/">ROADMAP</a></li>
+                        <li><a href="/">FAQ</a></li>
                     </ul>
                 </div>
                 <div id="social-links">

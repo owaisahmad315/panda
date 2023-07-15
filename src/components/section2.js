@@ -2,9 +2,9 @@ import React from 'react';
 import './section2.css';
 import robot_panda from '../assets/robot panda.png';
 
-class Section_2 extends React.Component {
+class Section2 extends React.Component {
 
-    render () {
+    render() {
 
         return (
             <div id="section-2">
@@ -13,28 +13,28 @@ class Section_2 extends React.Component {
                     <div className="robot-panda">
                         <img src={robot_panda} alt="" />
                         <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                         </p>
                     </div>
                     <div className="robot-panda">
-                    <img src={robot_panda} alt="" />
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        <img src={robot_panda} alt="" />
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                         </p>
                     </div>
                     <div className="robot-panda">
-                    <img src={robot_panda} alt="" />
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        <img src={robot_panda} alt="" />
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                         </p>
-                    </div> 
+                    </div>
                 </div>
                 <button>
-                        SHOW MORE
-                    </button>
+                    SHOW MORE
+                </button>
             </div>
         );
     }
 }
 
-export default Section_2;
+export default Section2;

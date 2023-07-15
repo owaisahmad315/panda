@@ -4,9 +4,9 @@ import spider_panda from '../assets/spider panda.png'
 import forest_panda from '../assets/forest panda.png'
 import austronut_panda from '../assets/austronut panda.png'
 
-class Section_1 extends React.Component {
+class Section1 extends React.Component {
 
-    render () {
+    render() {
 
         return (
 
@@ -17,10 +17,10 @@ class Section_1 extends React.Component {
                         <img src={spider_panda} alt="" />
                     </div>
                     <div className="panda">
-                    <img src={forest_panda} alt="" />
+                        <img src={forest_panda} alt="" />
                     </div>
                     <div className="panda">
-                    <img src={austronut_panda} alt="" />
+                        <img src={austronut_panda} alt="" />
                     </div>
                 </div>
                 <button>SHOW MORE</button>
@@ -30,4 +30,4 @@ class Section_1 extends React.Component {
     }
 }
 
-export default Section_1;
+export default Section1;

@@ -1,4 +1,4 @@
-
+import React from "react";
 import './navbar.css';
 import logo from '../assets/logo 2.png';
 import logo1 from '../assets/Vector2.png';

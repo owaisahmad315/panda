@@ -12,9 +12,9 @@ class Section3 extends React.Component {
                 <p>As an early adopter you will get exclusive opportunities to get your WhiteList or even get FREE NFT</p>
                 <button>
                     <ul>
-                        <li><a href="">join</a></li>
-                        <li><a href=""><img src={image} alt="img3"></img></a></li>
-                        <li><a href="">discord</a></li>
+                        <li><a href="/">join</a></li>
+                        <li><a href="/"><img src={image} alt="img3"></img></a></li>
+                        <li><a href="/">discord</a></li>
                     </ul>
                 </button>
             </div>

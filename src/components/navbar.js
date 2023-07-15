@@ -40,7 +40,7 @@ class NavbarHead extends React.Component {
                 <button>
                     <ul>
                         <li><a href="">join</a></li>
-                        <li><a href=""><img src={logo1}></img></a></li>
+                        <li><a href=""><img src={logo1} alt="image3" /></a></li>
                         <li><a href="">discord</a></li>
                     </ul>
 
